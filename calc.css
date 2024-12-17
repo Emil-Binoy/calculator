@@ -6,13 +6,12 @@
 }
 
 .mndv{
-    background-color: rgb(46, 44, 44);
-    padding: 20px;
+   
     border-radius: 10px;
     margin-top: 150px;
 }
 .name{
-    color: white;
+    
     font-family:"Poppins", serif;
     font-weight: 600;
 }
